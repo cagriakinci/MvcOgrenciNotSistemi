@@ -73,21 +73,3 @@ namespace OgrenciNotMvc.Controllers
         }
     }
 }
-
-// Bu kodu YeniOgrenci metodunda denedik. Başarılı bir şekilde çalıştı.
-
-// Yine bir DropDownList örneğiydi.
-
-//List<SelectListItem> items = new List<SelectListItem>();
-
-//items.Add(new SelectListItem { Text = "Matematik", Value = "0" });
-
-//items.Add(new SelectListItem { Text = "Fen Bilgisi", Value = "1" });
-
-//items.Add(new SelectListItem { Text = "Atatürk İlke ve İnkılapları", Value = "2" });
-
-//items.Add(new SelectListItem { Text = "Coğrafya", Value = "3" });
-
-//items.Add(new SelectListItem { Text = "Edebiyat", Value = "4" });
-
-//ViewBag.DersAd = items;
