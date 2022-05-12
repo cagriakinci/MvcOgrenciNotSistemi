@@ -2,7 +2,7 @@
 
 ### Projede Neler Yapıldı?
 
-* Projede öğrenci, ders, kulüpler ve sınav notları bilgilerinin tutulmaktadır.
+* Projede öğrenci, ders, kulüpler ve sınav notları bilgileri tutulmaktadır.
 * Tablolarda ekleme, güncelleme, silme fonksiyonları bulunmaktadır.
 * İlişkili tablolarda silmek yerine pasife alma işlemi gerçekleştirilmektedir.
 * Not ortalamalarının hesaplanabilmesi için bir Hesapla butonu yer almaktadır.
