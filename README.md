@@ -9,5 +9,5 @@
 
 
 
-[Notların Bulunduğu Tablo Yapısı](https://www.hizliresim.com/58eoknf)
-[Güncelleme Butonu ile Hem Bilgileri Güncelleyip Hem Notları Hesaplatabiliyoruz](https://www.hizliresim.com/1dxezgb)
+[Notların Bulunduğu Tablo Yapısı](https://i.hizliresim.com/58eoknf.png)
+[Güncelleme Butonu ile Hem Bilgileri Güncelleyip Hem Notları Hesaplatabiliyoruz](https://i.hizliresim.com/1dxezgb.png)
