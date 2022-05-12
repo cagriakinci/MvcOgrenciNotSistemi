@@ -7,7 +7,7 @@
 * İlişkili tablolarda silmek yerine pasife alma işlemi gerçekleştirilmektedir.
 * Not ortalamalarının hesaplanabilmesi için bir Hesapla butonu yer almaktadır.
 
-https://i.hizliresim.com/1swlayh.png
+(https://i.hizliresim.com/1swlayh.png)
 
 [Notların Bulunduğu Tablo Yapısı](https://i.hizliresim.com/58eoknf.png)
 
