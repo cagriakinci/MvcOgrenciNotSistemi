@@ -16,3 +16,4 @@
 [Notların Bulunduğu Tablo Yapısı](https://i.hizliresim.com/jhq8uvd.png)
 
 [Güncelleme Butonu ile Hem Bilgileri Güncelleyip Hem Notları Hesaplatabiliyoruz](https://i.hizliresim.com/r9l1ofw.png)
+ 
